@@ -1,4 +1,4 @@
-<h1>Binary Classification and Sentiment Analysis of TikTok Videos</h1>
+<h1>TikTok Classification Capstone Project</h1>
 
 <h2>Overview</h2>
 
